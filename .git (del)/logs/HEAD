@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 62f554fd852543a3ef8823670c45980f77dd839f Rully D Faishal <rdf.faishal@gmail.com> 1667012950 +0700	clone: from https://gitlab.com/ardisyahputra12/final-project-system23.git
+62f554fd852543a3ef8823670c45980f77dd839f 6cc32972aa423f96948722ce691329065b2bd28e Rully D Faishal <rdf.faishal@gmail.com> 1667699412 +0700	commit: 1
+6cc32972aa423f96948722ce691329065b2bd28e a412ebdf5aed0475b7885dc505505522dee5ce6c Rully D Faishal <rdf.faishal@gmail.com> 1667721428 +0700	commit (merge): Home
+a412ebdf5aed0475b7885dc505505522dee5ce6c a412ebdf5aed0475b7885dc505505522dee5ce6c Rully D Faishal <rdf.faishal@gmail.com> 1667721578 +0700	checkout: moving from main to ull
+a412ebdf5aed0475b7885dc505505522dee5ce6c a80f4e24d532b9e74c6b92a3b71066b49e118835 Rully D Faishal <rdf.faishal@gmail.com> 1667721864 +0700	commit: Home
+a80f4e24d532b9e74c6b92a3b71066b49e118835 cafec66756a2b74439f66e3d7c94d84e315d2d26 Rully D Faishal <rdf.faishal@gmail.com> 1667743176 +0700	commit: auth
+cafec66756a2b74439f66e3d7c94d84e315d2d26 ef0864d4a90b05b8247b782bdc7b6ae806642c1f Rully D Faishal <rdf.faishal@gmail.com> 1668584791 +0700	commit: tst
+ef0864d4a90b05b8247b782bdc7b6ae806642c1f 7efea5bd79582d5be2fe018e9f7f4e70f6b10499 Rully D Faishal <rdf.faishal@gmail.com> 1668590283 +0700	commit (merge): test
+7efea5bd79582d5be2fe018e9f7f4e70f6b10499 143c4bf78a8819e6d10cb4cd5b3609f3d046a786 Rully D Faishal <rdf.faishal@gmail.com> 1668776137 +0700	commit: update auth and home
+143c4bf78a8819e6d10cb4cd5b3609f3d046a786 c4098b030fd4e61e56ee542cc1d36e97ae03745e Rully D Faishal <rdf.faishal@gmail.com> 1669047333 +0700	commit: update user
+c4098b030fd4e61e56ee542cc1d36e97ae03745e e78439a8d2eab20e759fd3bf72403119aaeba062 Rully D Faishal <rdf.faishal@gmail.com> 1669886141 +0700	pull upstream all: Fast-forward
+e78439a8d2eab20e759fd3bf72403119aaeba062 cb697b02bd70b753e0b5f2de5e215f046c37ae40 Rully D Faishal <rdf.faishal@gmail.com> 1670029969 +0700	commit: update cart
+cb697b02bd70b753e0b5f2de5e215f046c37ae40 909b83e4c5fdfa6f41f08ca9c4c04ddde36a68b2 Rully D Faishal <rdf.faishal@gmail.com> 1670121599 +0700	commit (merge): update cart and order
+909b83e4c5fdfa6f41f08ca9c4c04ddde36a68b2 47604f0ded77e30f025d5ee3684dc63659e60417 Rully D Faishal <rdf.faishal@gmail.com> 1670143261 +0700	commit (merge): update cart and order
+47604f0ded77e30f025d5ee3684dc63659e60417 25df997d1bb5bdd2f9dde39d2a2f80aec808efa3 Rully D Faishal <rdf.faishal@gmail.com> 1670207663 +0700	commit: cart

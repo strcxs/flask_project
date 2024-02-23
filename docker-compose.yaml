@@ -1,0 +1,39 @@
+version: "3.9"
+
+services:
+  db:
+    container_name: system23-db
+    image: postgres:14
+    ports:
+      - 5432:5432
+    networks:
+      - system23-network
+    env_file: .env
+
+  flask-app:
+    container_name: system23-api
+    build: .
+    ports:
+      - 5000:5000
+    networks:
+      - system23-network
+    depends_on:
+      - db
+    env_file: .env
+
+  web:
+    container_name: system23-web
+    build: ./app/frontend
+    ports:
+      - 3000:3000
+    networks:
+      - system23-network
+    depends_on:
+      - flask-app
+    env_file:
+      - ./app/frontend/.env
+
+networks:
+  system23-network:
+    driver: bridge
+    name: system23-network

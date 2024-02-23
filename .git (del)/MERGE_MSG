@@ -1,0 +1,7 @@
+Merge branch 'FE-ardi' of https://gitlab.com/ardisyahputra12/final-project-system23 into ull
+
+# Conflicts:
+#	app/frontend/.env
+#	app/frontend/components/publics/PublicNavbar.js
+#	app/routes/cart.py
+#	app/routes/order.py
